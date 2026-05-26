@@ -153,15 +153,7 @@ pages/
 
 ## 👨‍💻 Author
 
-### Alby Kennedy
-
-Software Engineer focused on:
-- Full Stack Development
-- Spring Boot
-- React.js
-- iOS Development
-- Creative Frontend Engineering
-- AI-integrated Applications
+### Alby Kennady
 
 GitHub:
 https://github.com/albykennady
